@@ -1,0 +1,8 @@
+{
+    "id": "package",
+    "parent": "wasp",
+    "description": "The package manager for Wasp (which is serving itself!)",
+    "version": "beta-0.1.0",
+    "namespace": "",
+    "index": "package.php"
+}

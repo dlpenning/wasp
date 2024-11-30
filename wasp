@@ -1,0 +1,7 @@
+<?php
+
+/**
+ * Wasp Command Line Interface.
+ * 
+ * This is a wrapper for the package `wasp-cli`. See that package for the source code.
+ */
